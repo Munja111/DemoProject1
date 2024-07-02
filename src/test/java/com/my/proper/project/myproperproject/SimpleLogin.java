@@ -55,7 +55,7 @@ public class SimpleLogin {
 			System.out.println("Homepage not displayed");
 		}
 		
-		
+		//NEW CHANGESS
 
 		// Get current date
         LocalDate currentDate = LocalDate.now();
